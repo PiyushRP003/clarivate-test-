@@ -1,0 +1,16 @@
+.footer {
+  background-color: #1f2937; // Tailwind's gray-800
+  color: #ffffff;
+  padding: 1rem;
+  margin-top: auto;
+
+  .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+
+    p {
+      font-size: 0.875rem;
+    }
+  }
+}
